@@ -1,6 +1,6 @@
 # Something Big
 
-This is the Website for Meenachil Hacks, a 24Hour National Level Hackathon which aims to reduce the gap between the Public and the Hacker Community.
+This is the Website for HackPoly.Tech. 
  
 ## Running the Website
 ```bash
